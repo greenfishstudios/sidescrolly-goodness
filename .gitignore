@@ -1,0 +1,12 @@
+node_modules/
+*.js
+*.map
+*.log
+*.sqlite
+*.png
+*.gif
+*.db
+*.jpg
+*.zip
+*.txt
+*.psd
